@@ -1,2 +1,0 @@
-# kalambury
-Created with CodeSandbox
